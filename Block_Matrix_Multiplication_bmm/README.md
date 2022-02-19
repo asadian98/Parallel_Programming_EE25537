@@ -1,4 +1,4 @@
-## The implementation of the Block Matrix Multiplication (bmm) using CUDA!
+## The implementation of the Block Matrix Multiplication (bmm) using CUDA
 
 
 A and B are “float” matrices of size N * N, where N = 2 ^ M. We would like to calculate C = A * B.
